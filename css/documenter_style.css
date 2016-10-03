@@ -16,7 +16,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 html {
 	font-size: 101%;
 	font-family: Helvetica, helvetica, Arial, verdana, arial, sans-serif;
-	font-size: 13px;
+	font-size: 16px;
 	line-height: 19px;
 	-webkit-text-size-adjust: none;
 	color: #6F6F6F;
@@ -97,7 +97,7 @@ img {
 #documenter_copyright {
 	position: absolute;
 	bottom: 10px;
-	font-size: 10px;
+	font-size: 13px;
 	right: 15px;
 	width: 200px;
 	text-align: right;
@@ -120,7 +120,7 @@ noscript p {
 	color: #4D4D4D;
 }
 .small {
-	font-size: 10px;
+	font-size: 13px;
 	letter-spacing: 0;
 }
 /* === SIDEBAR Section === */
@@ -135,7 +135,7 @@ noscript p {
 	background-repeat: no-repeat;
 }
 #documenter_sidebar ol {
-	font-size: 12px;
+	font-size: 14px;
 	font-weight: 700;
 	min-height: 150px;
 	height: 75%;
@@ -219,7 +219,7 @@ noscript p {
 }
 #documenter_content code, #documenter_content pre {
 	font-family: "Courier New", Courier, monospace;
-	font-size: 12px;
+	font-size: 14px;
 }
 #documenter_content code {
 	padding: 2px 4px;
